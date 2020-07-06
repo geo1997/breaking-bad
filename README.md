@@ -6,4 +6,5 @@ Hosted on https://breakingbadapi.web.app/
 Just For Fun
 
   -Simple React Application
-  -Breaking Bad Cast Description
+  
+  -Breaking Bad Cast Details
